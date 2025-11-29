@@ -18,4 +18,4 @@
 |--------|--------------|------------|----------|
 | Lý Trần Kiên | 23001529 | Neikien | Hoàn thiện chương trình, phân công |
 | Trần Đình Ngọc | 23001541 | NgocTD | Tìm kiếm tài liệu, làm báo cáo |
-| Đoàn Dương Hưng | 23001528 | hungdoanbelbel | Kiểm thử chương trình, làm báo cáo |
+| Đoàn Dương Hưng | 23001528 | hungdoanbeobeo | Kiểm thử chương trình, làm báo cáo |
