@@ -1,6 +1,5 @@
 # Thông tin Dự án
 
-**Thông tin này cũng cần được ghi trong README.md của kho GitHub.**
 
 **Học phần:** MAT3508 - Nhập môn Trí tuệ Nhân tạo  
 **Học kỳ:** Học kỳ 1, Năm học 2025-2026  
